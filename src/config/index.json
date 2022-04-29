@@ -1,0 +1,154 @@
+{
+  "company": {
+    "name": "",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Çatdırılma",
+      "href": "product"
+    },
+    {
+      "name": "Xidmətlər",
+      "href": "features"
+    },
+
+    {
+      "name": "Endirim",
+      "href": "pricing"
+    },
+    {
+      "name": "Haqqımızda",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "zeng et",
+    "href": "https://wa.me/994505585016?text=Salam"
+  },
+  "mainHero": {
+    "title": "İnnovativ kuryer xidməti ",
+    "subtitle": "üzrə günə gün express çatdırılma.",
+    "description": "ölkədə ilk dəfə olaraq qeyri-adi kuryer xidmətlərini təqdim edir. Biz müasir texnoloji imkanlardan istifadə edərək həm hüquqi şəxslərə (şirkət, təşkilat, dövlət qurumları və s.), həm də fərdi qaydada istənilən şəxslərə operativ və etibarlı xidmət göstəririk.",
+    "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_960,h_640/https://www.korvia.com/wp-content/uploads/2017/12/freepik_featured_delivery.jpg",
+    "primaryAction": {
+      "text": "Zeng et",
+      "href": "tel:+994505585016"
+    },
+    "secondaryAction": {
+      "text": "Email yaz",
+      "href": "mailto:kalantarlikamran2@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Üstünlüklərimiz",
+    "items": [
+      {
+        "title": "Çatdırmanı etibarlı və sürətli yerinə yetirmək",
+        "description": " üçün biz kuryerlərimizi müasir innovativ aplikasiya vasitəsilə təchiz edirik. Siz sifariş edərkən bizim sistem dərhal sizə ən yaxın kuryeri təyin edir və artıq bir neçə dəqiqədən sonra kuryer sizin sifarişin icrasına başlayır",
+        "img": "https://img.freepik.com/free-vector/online-groceries-concept-illustration_114360-1786.jpg?w=2000&t=st=1651227058~exp=1651227658~hmac=b40e0bbc7550cc55ef0be2985b52d7eb8e1b96b06db58f36fd3fc6c9d934ab1a 2000w"
+      },
+      {
+        "title": "İnnovativ həllər",
+        "description": " sayəsində sizə avtomatik olaraq ən yaxın kuryerin təyini Sifarişlərinizin ən qısa zamanda çatdırılması , Sifarişlərinizin çatdırılması haqqında sms və bildirişlərin göndərilməsi",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "",
+    "subtitle": "Xidmətlərimiz",
+    "description": "Sifarişlərin çatdırılması müştərinin istəyinə bağlıdır. Biz sifarişi qəbul etdikdən sonra ən qısa müddətdə, onu qeyd edilən ünvana çatdıra bilirik. Eyni zamanda, sifarişinizi müəyyən etdiyiniz tarixdə və saatda da çatdırırıq.",
+    "items": [
+      {
+        "name": "Dəvətnamələrin çatdırılması",
+        "description": "Dəvətnamələrin çatdırılması.",
+        "icon": "/assets/images/287692_mail_icon.svg"
+      },
+      {
+        "name": "Ölkədaxili məktubların və bağlamaların çatdırılması",
+        "description": "Ölkədaxili məktubların və bağlamaların çatdırılması",
+        "icon": "/assets/images/4047323_delivery_moped_retro_scooter_transport_icon.svg"
+      },
+      {
+        "name": "Online mağaza sifarişlərinin çatdırılması",
+        "description": "Online mağaza sifarişlərinin çatdırılması",
+        "icon": "/assets/images/5402359_basket_cart_ecommerce_shopping_buy_icon.svg"
+      },
+      {
+        "name": "Gül buketlərinin çatdırılması",
+        "description": "Gül buketlərinin çatdırılması.",
+        "icon": "/assets/images/6169651_bouquet_day_flower_gift_love_icon.svg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Endirimli",
+    "items": [
+      {
+        "name": "SADƏ",
+        "price": "10% endirim",
+        "priceDetails": "",
+        "features": [
+          "Aylıq 100-200 göndərişlər üçün",
+          "Baki şəhəri ərazisində",
+          "100-200 məktub",
+          "göndərirsinizsə bu paket tam sizə uyğundur"
+        ]
+      },
+
+      {
+        "name": "Premium",
+        "price": "20% endirim",
+        "priceDetails": "",
+        "features": [
+          "Aylıq 300-400 göndərişlər üçün",
+          "Baki şəhəri ərazisində",
+          "300-400 məktub",
+          "göndərirsinizsə bu paket tam sizə uyğundur"
+        ]
+      },
+      {
+        "name": "Medium",
+        "price": "15% endirim",
+        "priceDetails": "",
+
+        "features": [
+          "Aylıq 200-300 göndərişlər üçün",
+          "Baki şəhəri ərazisində",
+          "200-300 məktub",
+          "göndərirsinizsə bu paket tam sizə uyğundur"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Qr Code",
+        "img": "/assets/images/product2.jpg",
+        "content": ""
+      },
+      {
+        "name": "Location",
+        "href": "https://www.google.com/maps/@40.4036963,49.8617469,17z",
+        "content": ""
+      },
+      {
+        "name": "Əlaqə",
+        "href": "tel:+994505585016",
+        "content": ""
+      },
+      {
+        "name": "Email",
+        "href": "mailto:kalantarlikamran2@gmail.com?subject=I like react landing page!",
+        "content": ""
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/"
+    }
+  }
+}
